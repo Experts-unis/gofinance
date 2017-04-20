@@ -1,0 +1,11 @@
+package controleur;
+
+public enum Navigation {
+ACCUEIL,
+OBJECTIFS,
+COMPTE_BANCAIRE_BRANCHE,
+COMPTE_BANCAIRE,
+BUDGET,
+BILAN
+
+}
